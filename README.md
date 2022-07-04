@@ -31,3 +31,9 @@ self.timerStatus == .pause 일 때, timer?.suspend() 메소드를 호출해서 �
         <br>
     }<br>
 <br>
+
+## 완성
+![스크린샷 2022-07-04 오후 4 15 38](https://user-images.githubusercontent.com/102133961/177101701-24ff2a66-fbda-488a-87e0-7597b33f1838.jpg)
+![스크린샷 2022-07-04 오후 4 15 58](https://user-images.githubusercontent.com/102133961/177101769-81c5a09f-cc14-45c5-9d85-6f44b639c5f7.jpg)
+![스크린샷 2022-07-04 오후 4 16 25](https://user-images.githubusercontent.com/102133961/177101825-d31d1226-fbfa-4285-9862-32952b5743cf.jpg)
+
